@@ -17,5 +17,13 @@
                 "path": "./themes/Legend of Zelda Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "files": [
+        "img/Hyrulets.png",
+        "img/Hyrulejson.png"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SpaceTristan/legend-of-zelda-theme"
+      }
 }
