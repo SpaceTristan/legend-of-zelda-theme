@@ -10,6 +10,10 @@ This is a theme for VS Code inspired by the Legend of Zelda.
 
 ## Installation
 
+1. Open VSCode Extensions sidebar panel
+2. Search Zelda
+3. Install
+
 ## Inspo
 
 Color Theme inspired from 
