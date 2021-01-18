@@ -4,9 +4,9 @@
 
 This is a theme for VS Code inspired by the Legend of Zelda.
 
-![Image_1](img/Hyrulets.png)
-<br>
-![Image_2](img/Hyrulejson.png)
+<img src="https://github.com/SpaceTristan/legend-of-zelda-theme/blob/main/img/Hyrulets.png" />
+
+<img src="https://github.com/SpaceTristan/legend-of-zelda-theme/blob/main/img/Hyrulejson.png" />
 
 ## Installation
 
