@@ -2,7 +2,8 @@
     "name": "legend-of-zelda-theme",
     "displayName": "Legend of Zelda Theme",
     "description": "Legend of Zelda inspired color theme",
-    "version": "0.0.1",
+    "publisher": "SpaceTristan",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -17,6 +18,11 @@
                 "path": "./themes/Legend of Zelda Theme-color-theme.json"
             }
         ]
+    },
+    "icon": "img/icon.png",
+    "galleryBanner": {
+        "color": "#0e5135",
+        "theme": "dark"
     },
     "files": [
         "img/Hyrulets.png",
