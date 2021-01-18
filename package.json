@@ -3,7 +3,7 @@
     "displayName": "Legend of Zelda Theme",
     "description": "Legend of Zelda inspired color theme",
     "publisher": "SpaceTristan",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.52.0"
     },
