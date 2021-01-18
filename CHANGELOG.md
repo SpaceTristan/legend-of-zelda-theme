@@ -4,8 +4,8 @@ All notable changes to the "legend-of-zelda-theme" extension will be documented 
 
 ## 1.0.1
 Fixed ReadMe image issue \
-Added Instructions\
+Added Instructions \
 
 ## 1.0.0
 
-- Initial release\
+- Initial release \
